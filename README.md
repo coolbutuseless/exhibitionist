@@ -49,11 +49,17 @@ plot_double(1.2345e87)
 
 <img src="man/figures/README-unnamed-chunk-4-1.png" width="100%" />
 
-# Some miscellaneous examples
+``` r
+plot_compact_double(1.2345e87, base_size = 5, legend.text.multiplier = 2)
+```
 
 <img src="man/figures/README-unnamed-chunk-5-1.png" width="100%" />
 
+# Some miscellaneous examples
+
 <img src="man/figures/README-unnamed-chunk-6-1.png" width="100%" />
+
+<img src="man/figures/README-unnamed-chunk-7-1.png" width="100%" />
 
 # Annotating the word ‘exhibitionist’ for the header of this page
 

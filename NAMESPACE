@@ -3,6 +3,8 @@
 S3method(show_bits,double)
 S3method(show_bits,integer)
 export(plot_chars)
+export(plot_compact_double)
+export(plot_compact_float)
 export(plot_double)
 export(plot_float)
 export(show_bits)

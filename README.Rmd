@@ -63,6 +63,13 @@ plot_double(1.2345e87)
 ```
 
 
+```{r}
+plot_compact_double(1.2345e87, base_size = 5, legend.text.multiplier = 2)
+```
+
+
+
+
 # Some miscellaneous examples
 
 ```{r echo = FALSE, fig.height = 3}
